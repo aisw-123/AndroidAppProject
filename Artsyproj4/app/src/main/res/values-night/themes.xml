@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Artsyproj4.Dark" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>
